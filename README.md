@@ -5,7 +5,7 @@ Practices
 
 # How to solve (programming) problems
 
-This is essentially my interpretation of George Polya's probelm solving techniques, applied to programming problems.
+This is essentially my interpretation of [George Polya's probelm solving technique](https://math.berkeley.edu/~gmelvin/polya.pdf), applied to programming problems.
 ## Understand the problem
 1. Clarify the problem
 2. Think about the inputs, their bounds and types. 
