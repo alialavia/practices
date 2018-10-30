@@ -37,10 +37,12 @@ I would like to think about the following classes of solutions:
 1. Naive: 
   * The solution is based on the word-by-word definition of the problem. 
   * This usually is not the optimal solution. But is a first step.
-
 2. Known solutions:
   * Quit often, the problem is simply restatement of a well-known problem, maybe with a small change.
   * Depeneding on how you model your problem, you might figure a well-know solution would solve your problem. For example, if you model your problem as a tree, an infix tree traversal might be all you need to solve your problem.
+  * For arrays and linked lists, just walk over the items.
+  * For trees, try different visiting patterns (infix, postfix, prefix) 
+  * For graph, a DFS, BFS, or shotest parth is a good first step
   
 3. Solved Subproblems:
   * Assume you have solved smaller problems. Think how you can use those solved problems to solve the original problem.
