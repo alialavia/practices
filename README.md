@@ -1,6 +1,11 @@
 practices
 =========
 
+# My Knowledge gaps
+1. DFS, BFS, Shortest Path, A*
+2. Knapsack, Matrix Multiplication
+3. Red-Black, Heap
+
 Practices
 
 # How to solve (programming) problems
